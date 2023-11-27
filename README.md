@@ -1,2 +1,3 @@
 ## Descrição do Projeto
-Este projeto foi concebido como um formulário que pode ser utilizado em contextos como cadastro de perfis de usuários, e-commerce, recrutamento online, inscrições para eventos, assistência técnica, enquetes e votações, feedback e agendamentos
+O índice de massa corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal. Desenvolvido pelo polímata Lambert Quételet no fim do século XIX, trata-se de um método fácil e rápido para a avaliação do nível de gordura de cada pessoa, sendo, por isso, um preditor internacional de obesidade adotado pela Organização Mundial da Saúde (OMS).
+O IMC é calculado dividindo o peso (em kg) pela altura ao quadrado (em m), de acordo com a seguinte fórmula: IMC = peso / (altura x altura).
